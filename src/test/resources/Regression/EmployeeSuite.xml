@@ -1,0 +1,14 @@
+<suite thread-count="1" verbose="1" name="Orange HRM Portal Automation">
+    <test name="Create new employee">
+
+        <classes>
+            <class name="testRunner.EmloyeeTestRunner"/>
+        </classes>
+    </test>
+
+<!--    <test name="login by new employee">-->
+<!--        <classes>-->
+<!--            <class name="testRunner.userTestRunner"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
