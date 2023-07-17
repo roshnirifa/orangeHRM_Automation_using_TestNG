@@ -52,7 +52,6 @@ For a strong password, please use a hard to guess combination of text with upper
 
 ## Allure Report
 ![screencapture-192-168-0-108-52218-index-html-2023-07-17-10_16_20](https://github.com/roshnirifa/orangeHRM_Automation_using_TestNG/assets/74822231/82d2e7ef-1cf6-476c-b58c-f5e34e8cd703)
-
 ![screencapture-192-168-0-108-52218-index-html-2023-07-17-10_16_48](https://github.com/roshnirifa/orangeHRM_Automation_using_TestNG/assets/74822231/95ed6cf1-0574-479a-936f-d4fe61813ac6)
 ![screencapture-192-168-0-108-52218-index-html-2023-07-17-10_17_29](https://github.com/roshnirifa/orangeHRM_Automation_using_TestNG/assets/74822231/3e594c7e-4e09-4c49-ad2b-f2eff137c2ad)
 ![screencapture-file-G-Road-to-SDET-Assignment-testNg-orangeHrm-build-reports-tests-test-index-html-2023-07-17-10_17_58](https://github.com/roshnirifa/orangeHRM_Automation_using_TestNG/assets/74822231/3d3fe1e4-79de-4ac8-83ab-3767c7118cee)
